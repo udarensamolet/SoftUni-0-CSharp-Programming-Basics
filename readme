@@ -113,7 +113,7 @@ May the Force be with you!
 6.13. Butterfly
 
 7 Complex loops
-7.01.0Numbers1ToNWithStep3
+7.01. Numbers1ToNWithStep3
 7.02. Numbers1ToN
 7.03. PowersOfTwo
 7.04. EvenPowersOfTwo
@@ -131,6 +131,3 @@ May the Force be with you!
 7.16. StupidPasswordGenerator
 7.17. MagicNumber
 7.18. SpecialNumbers
-
-test
-test2
