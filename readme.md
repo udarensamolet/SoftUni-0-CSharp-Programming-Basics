@@ -1,6 +1,6 @@
 # SoftUni-0-Programming-Basicss
 
-You can find solutions to all of the exercises from the Programming Basics course from SoftUni.
+You can find solutions to all of the exercises from the C# Programming Basics course from SoftUni.
 
 Any feedback would be appreciated and feel free to borrow some code if you can't think of anything else. :)
 
