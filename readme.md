@@ -7,7 +7,7 @@ Any feedback would be appreciated and feel free to borrow some code if you can't
 May the Force be with you!
 
 
-## 1 Introduction to programming<br>
+## 1 Introduction to Programming<br>
 ### Exercises
 1.01. Hello CSharp<br>
 1.02. Expression<br>
@@ -18,7 +18,7 @@ May the Force be with you!
 1.07. Rectangle Square<br>
 1.08. Square Stars<br>
 
-## 2 Simple calculations<br>
+## 2 Simple Calculations<br>
 ### Exercises
 2.02. Square Area<br>
 2.03. Inches to Centimeters<br>
@@ -38,7 +38,7 @@ May the Force be with you!
 2.17. Training Lab<br>
 2.18. Vegetable Market<br>
 
-## 3 Simple conditional statements<br>
+## 3 Simple Conditional Statements<br>
 ### Exercises
 3.01. Excellent Result<br>
 3.02. Excellent or Not<br>
@@ -60,7 +60,7 @@ May the Force be with you!
 3.18. Transport Price<br>
 3.19. Tubes in Pool<br>
 
-## 4 Complex conditional statements<br>
+## 4 Complex Conditional Statements<br>
 ### Exercises
 4.01. Personal Titles<br>
 4.02. Small Shop<br>
@@ -102,7 +102,7 @@ May the Force be with you!
 5.19. Histogram<br>
 5.20. Division without Remainder<br>
 
-## 6 DrawingWithLoops<br>
+## 6 Drawing with Loops<br>
 ### Exercises
 6.01. Rectangle of 10x10 Stars<br>
 6.02. Rectangle of NxN Stars<br>
@@ -118,7 +118,7 @@ May the Force be with you!
 6.12. Draw Fort<br>
 6.13. Butterfly<br>
 
-## 7 Complex loops<br>
+## 7 Complex Loops<br>
 ### Exercises
 7.01. Numbers 1 to N With Step 3<br>
 7.02. Numbers 1 to N<br>
